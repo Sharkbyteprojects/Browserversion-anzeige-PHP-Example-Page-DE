@@ -11,5 +11,5 @@ INFO: Unsere beispielwebseite benötigt [PHP](https://secure.php.net/). Bei XAMP
 ---
 
 ## Download beispielwebseite:
-- [Tarball](https://gitlab.com/Sharkbyteprojects/Beispiel-Webseite-DE/-/archive/master/Beispiel-Webseite-DE-master.tar.gz)
+- [Tarball](https://github.com/Sharkbyteprojects/Browserversion-anzeige-PHP-Example-Page-DE/archive/master.tar.gz)
 - [Zip](https://github.com/Sharkbyteprojects/Browserversion-anzeige-PHP-Example-Page-DE/archive/master.zip)
