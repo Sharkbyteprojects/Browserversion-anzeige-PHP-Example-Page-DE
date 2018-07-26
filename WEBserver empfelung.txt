@@ -1,0 +1,3 @@
+XAMPP (https://www.apachefriends.org/de/)
+
+INFO: Unsere beispielwebseite benötigt PHP. Bei XAMPP ist es vorinstalliert. Am Xampp Control Fenster muss Apache aktiv sein.
